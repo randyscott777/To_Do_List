@@ -23,4 +23,4 @@ A simple "Hello World" Flask web application.
 - Simple home page with a greeting
 - About page with application description
 - Debug mode enabled for development
-- Accessible on all network interfaces (0.0.0.0)
+- Runs on localhost (127.0.0.1) for local development
